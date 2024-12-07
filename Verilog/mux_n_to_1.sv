@@ -13,5 +13,7 @@ module mux_n_to_1
           default : y = 'd0;
       endcase
   end
+endmodule
 
+module tb;
 endmodule
